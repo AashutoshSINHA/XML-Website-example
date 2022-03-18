@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="plays.css" type="text/css"?>
+<!-- Author: Aashutosh kumar Singh -->
+<!-- Date:3-13-2022 -->
+
+<play>
+   <Title>Hemlet</Title>
+   <Summary>
+      One of the greatest plays ever written in the English language, Hamlet is the story of the
+      young Danish prince, Hamlet, who learns that his father was killed by his 
+      uncle and that the throne of Denmark is now held by this usurper and a murderer.Though filled with 
+      grief and the desire for revenge, Hamlet delays action until he is certain of his uncle's guilt. 
+      Hamlet hires a theater troupe to stage a play that re-enacts the events of his father's 
+      murder, hoping to determine the truth by watching the reaction of his uncle to the play. Hamlet's 
+      suspicions are confirmed when the king flees from the performance. As he moves to take revenge upon 
+      his uncle, Hamlet errs by killing the king's advisor, Polonius, and is banished from Denmark. Hamlet returns 
+      and kills the king, but he and his mother die by poison in the act. The play ends in tragedy but with 
+      the promise  of immortality for Hamlet through his soldier's funeral and the recording of his story 
+      by his friend Horatio.
+
+   </Summary>
+
+
+   <Act>
+
+      <Act_Number>Act 1</Act_Number>
+         <Scene>
+            <Scene_Number>Scene i:</Scene_Number>  
+            Elsinore. A platform before the castle. 
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene ii:</Scene_Number>
+            A room of state in the castle.
+         </Scene> 
+         <Scene>
+            <Scene_Number>Scene iii:</Scene_Number>
+            A room in Polonius' house.
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene iv:</Scene_Number>
+            The platform.
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene v:</Scene_Number>
+            Another part of the platform.
+         </Scene> 
+     
+   </Act> 
+
+   <Act>
+
+      <Act_Number>Act 2</Act_Number>
+         <Scene>
+            <Scene_Number>Scene i:</Scene_Number>  
+            A room in the castle. 
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene ii:</Scene_Number>
+            A room in POLONIUS' house.
+         </Scene> 
+        
+     
+   </Act> 
+
+   <Act>
+
+      <Act_Number>Act 3</Act_Number>
+         <Scene>
+            <Scene_Number>Scene i:</Scene_Number>  
+            A room in the castle. 
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene ii:</Scene_Number>
+            A hall in the castle.
+         </Scene> 
+         <Scene>
+            <Scene_Number>Scene iii:</Scene_Number>
+            A room in the castle.
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene iv:</Scene_Number>
+            The Queen's closet.
+         </Scene>
+         
+     
+   </Act> 
+   <Act>
+
+      <Act_Number>Act 4</Act_Number>
+         <Scene>
+            <Scene_Number>Scene i:</Scene_Number>  
+            Elsinore. A platform before the castle. 
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene ii:</Scene_Number>
+            A room of state in the castle.
+         </Scene> 
+         <Scene>
+            <Scene_Number>Scene iii:</Scene_Number>
+            A room in Polonius' house.
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene iv:</Scene_Number>
+            The platform.
+         </Scene>
+         <Scene>
+            <Scene_Number>Scene v:</Scene_Number>
+            Another part of the platform.
+         </Scene> 
+     
+   </Act> 
+  
+
+</play>
+
+
+   
